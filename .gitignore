@@ -1,3 +1,6 @@
+## sql file ignore
+sql/
+
 HELP.md
 .gradle
 build/
