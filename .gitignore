@@ -1,5 +1,5 @@
 ## sql file ignore
-sql/
+./sql
 
 HELP.md
 .gradle
